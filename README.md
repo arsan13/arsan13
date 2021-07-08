@@ -7,7 +7,9 @@
 
 - 💬 Ask me about **Spring Boot and React**
 
+<!--
 - 📜 <a href="https://drive.google.com/file/d/1MBdvVcqqZM36gD9fKZ6dPEC42XY2lk-_/view">My Resume</a>
+-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
