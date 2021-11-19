@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Anbarsan</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🔭 I’m currently working on **a real-time project using React**
+<!-- - 🔭 I’m currently working on **a real-time project using React** -->
 
-- 🌱 I’m currently learning **Web development and Data structures**
+- 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **Spring Boot and React**
 
