@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently doing **SDE internship at Accolite Digital.**
 
-<!-- - 🌱 I’m currently learning **Angular** -->
+- 🌱 I’m currently learning **Angular**
 
 - 💬 Ask me about **Spring Boot and React**
 
